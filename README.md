@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4691E4&lines=Hello+world+!!!)](https://git.io/typing-svg)
 
+
+![Snake animation](https://github.com/N0tFake/N0tFake/blob/output/github-contribution-grid-snake.svg)
 <!--
 **N0tFake/N0tFake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

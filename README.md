@@ -1,6 +1,33 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4691E4&lines=Hello+world!%2C+I'm+N0tFake)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4691E4&lines=Hello+world+!!!)](https://git.io/typing-svg)
+```c
+#include <stdio.h>
+#include <string.h>
+
+typedef struct {
+  char name[50];
+  char country[50];
+  int isStudent;
+} MyProfile;
+
+int main(){
+
+  MyProfile Profile;
+
+  strcpy(Profile.name, "Silvio Otávio");
+  strcpy(Profile.country, "Brazil");
+  Profile.isStudent = 1;
+  
+  printf("My name is %s\n", Profile.name);
+  printf("I am from  %s\n", Profile.country);
+  
+  if(Profile.isStudent == 1){
+    printf("I am a computer science student\n");
+  }
+  
+  return 0;
+}
+```
 
 
 ![Snake animation](https://github.com/N0tFake/N0tFake/blob/output/github-contribution-grid-snake.svg)
